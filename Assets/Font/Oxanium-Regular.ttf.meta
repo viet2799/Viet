@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 76ee26a7f1fd443a956fa1d0caf59ba5
+timeCreated: 1642503919
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Oxanium-Regular"
+  fontNames:
+  - Oxanium
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
